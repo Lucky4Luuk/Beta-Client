@@ -1,0 +1,2 @@
+[workspace]
+members = ["beta_client", "beta_protocol_lib"]
